@@ -3,7 +3,7 @@ person:
     first_name: Stig
     last_name: Andersson
   age: 45
-  class: 1989
+  class: "1989"
   start_year: 2014
 
   hobbies:
