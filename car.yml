@@ -6,5 +6,5 @@ car:
   reg: "345678"
 
   attributes:
-    - size: big
-      color: red
+    - big
+    - red
