@@ -2,5 +2,9 @@ car:
   manufacturer: volvo
 
   model: SUV
-  year: 1997
-  reg: 345678
+  year: "1997"
+  reg: "345678"
+
+  attributes:
+    - size: big
+      color: red
